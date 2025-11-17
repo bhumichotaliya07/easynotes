@@ -1,58 +1,53 @@
-📘 EasyNotes – Student Notes Platform
+# 📘 EasyNotes – Student Notes Platform  
 
-A minimal and efficient web application designed to make academic notes easy to access, well-organized, and student-friendly.
+A minimal and efficient web application designed to make academic notes **easy to access**, **well-organized**, and **student-friendly**.  
 EasyNotes helps students quickly browse subjects, open unit-wise PDFs, and study without confusion.
 
-👥 Contributors
+---
 
-Bhumi Chotaliya – Development & Design
+## 👥 Contributors  
+- **Bhumi Chotaliya** – [GitHub](https://github.com/bhumichotaliya07)  
+- **Kaustabh Mondal** – [GitHub](https://github.com/cristianothegoat)  
 
-(Add other contributors if needed)
+---
 
-📝 Problem Statement
+## 📝 Problem Statement  
+Students often struggle with scattered notes, WhatsApp forwards, and unorganized PDFs.  
+EasyNotes solves this by providing a **simple, clean, and structured** way to access subject-wise and unit-wise academic material.
 
-Students often struggle with scattered notes, WhatsApp forwards, and unorganized PDFs.
-EasyNotes solves this problem by providing a simple, clean, and structured way to access subject-wise content.
+---
 
-🚀 Our Approach
+## 🚀 Our Approach  
+- Organize subjects clearly  
+- Display units in a clean, readable layout  
+- Provide direct PDF viewing  
+- Keep the UI distraction-free  
+- Make the platform fast, responsive, and lightweight  
 
-Organize subjects clearly
+---
 
-Show units in a clean, readable format
+## 🛠️ Tech Stack  
+- **Frontend:** React, Tailwind CSS  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB Atlas  
+- **Tools:** Git, GitHub  
 
-Provide direct PDF viewing
+---
 
-Keep UI distraction-free and easy for students
+## 📌 Status  
+📚 **Active Development**  
+More UI improvements and new features will be added soon.
 
-Fast, responsive, and lightweight
+---
 
-🛠️ Tech Stack
+## 🔮 Future Enhancements  
+- Dark / Light Mode  
+- Search functionality  
+- Admin panel for uploading notes  
+- Unit progress tracking  
+- Personalized user dashboard  
 
-Frontend: React, Tailwind CSS
+---
 
-Backend: Node.js, Express
-
-Database: MongoDB Atlas
-
-Other Tools: Git, GitHub
-
-📌 Status
-
-📚 Active Development
-UI refinements and extra academic features will be added soon.
-
-🔮 Future Enhancements
-
-Dark/Light Mode
-
-Notes Search Bar
-
-Admin Upload Panel
-
-Unit Progress Tracking
-
-Personalized Dashboard
-
-📬 Contact
-
-GitHub: https://github.com/bhumichotaliya07
+## 📬 Contact  
+GitHub: **https://github.com/bhumichotaliya07**
