@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+📘 EasyNotes – Student Notes Platform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A minimal and efficient web application designed to make academic notes easy to access, well-organized, and student-friendly.
+EasyNotes helps students quickly browse subjects, open unit-wise PDFs, and study without confusion.
 
-## Available Scripts
+👥 Contributors
 
-In the project directory, you can run:
+Bhumi Chotaliya – Development & Design
 
-### `npm start`
+(Add other contributors if needed)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+📝 Problem Statement
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Students often struggle with scattered notes, WhatsApp forwards, and unorganized PDFs.
+EasyNotes solves this problem by providing a simple, clean, and structured way to access subject-wise content.
 
-### `npm test`
+🚀 Our Approach
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Organize subjects clearly
 
-### `npm run build`
+Show units in a clean, readable format
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Provide direct PDF viewing
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Keep UI distraction-free and easy for students
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Fast, responsive, and lightweight
 
-### `npm run eject`
+🛠️ Tech Stack
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Frontend: React, Tailwind CSS
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Backend: Node.js, Express
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Database: MongoDB Atlas
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Other Tools: Git, GitHub
 
-## Learn More
+📌 Status
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+📚 Active Development
+UI refinements and extra academic features will be added soon.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+🔮 Future Enhancements
 
-### Code Splitting
+Dark/Light Mode
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Notes Search Bar
 
-### Analyzing the Bundle Size
+Admin Upload Panel
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Unit Progress Tracking
 
-### Making a Progressive Web App
+Personalized Dashboard
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+📬 Contact
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+GitHub: https://github.com/bhumichotaliya07
